@@ -22,8 +22,9 @@ Dataset
 The dataset, 'credit_card_fraud.csv', contains transaction details and user information necessary for identifying fraudulent activities.
 Preprocessing includes handling missing values, encoding categorical variables, balancing training the dataset, and feature correlation analysis.
 
-Dataset Source:
-https://app.datacamp.com/workspace/w/760c72c0-cd75-438e-9b85-110f0ce8b39f/edit
+Dataset Source: https://app.datacamp.com/workspace/w/760c72c0-cd75-438e-9b85-110f0ce8b39f/edit
+dataset size: 339607
+
 
 
 Feature Analysis
